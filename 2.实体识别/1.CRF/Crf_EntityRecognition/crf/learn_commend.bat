@@ -1,0 +1,1 @@
+crf_learn  ./template   ../data/annotation_train4.txt  ../crf/model4

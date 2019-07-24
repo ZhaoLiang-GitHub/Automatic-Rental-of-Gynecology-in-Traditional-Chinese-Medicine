@@ -1,0 +1,1 @@
+crf_test -v1 -m  ..\crf\model4  ..\data\annotation_test.txt  >>  ..\data\result4.txt
